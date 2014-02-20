@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "nicolas@hoizey.com",
+            "name": "Nicolas Hoizey",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "HTML": "./"
+        }
+    },
+    "description": "More info available on: http://pear.php.net/package/HTML_QuickForm_SelectFilter",
+    "include-path": [
+        "./"
+    ],
+    "license": "PHP License",
+    "name": "pear/html_quickform_selectfilter",
+    "support": {
+        "issues": "http:///bugs/search.php?cmd=display&package_name[]=HTML_QuickForm_SelectFilter",
+        "source": "https://github.com/pear/HTML_QuickForm_SelectFilter"
+    },
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
